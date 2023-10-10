@@ -1,0 +1,15 @@
+\\STU01FS\Homes\22319878\Downloads\session6C#\bin\Debug\net7.0\Session6.exe
+\\STU01FS\Homes\22319878\Downloads\session6C#\bin\Debug\net7.0\Session6.deps.json
+\\STU01FS\Homes\22319878\Downloads\session6C#\bin\Debug\net7.0\Session6.runtimeconfig.json
+\\STU01FS\Homes\22319878\Downloads\session6C#\bin\Debug\net7.0\Session6.dll
+\\STU01FS\Homes\22319878\Downloads\session6C#\bin\Debug\net7.0\Session6.pdb
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.csproj.AssemblyReference.cache
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.GeneratedMSBuildEditorConfig.editorconfig
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.AssemblyInfoInputs.cache
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.AssemblyInfo.cs
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.csproj.CoreCompileInputs.cache
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.dll
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\refint\Session6.dll
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.pdb
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\Session6.genruntimeconfig.cache
+\\STU01FS\Homes\22319878\Downloads\session6C#\obj\Debug\net7.0\ref\Session6.dll
